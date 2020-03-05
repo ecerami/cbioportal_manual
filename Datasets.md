@@ -17,5 +17,13 @@ Where possible, each study within cBioPortal is associated with a specific cance
 ![OncoTree Example](img/oncotree.png)
 
 {% hint style="info" %}
-The cBioPortal only contains de-identified clinical data.  That means that we do not store any protected health information (PHI) for patients, such as birth dates or medical record numbers, but we do store de-identified data, such as overall survival, patient demographics and prior treatment.  Published cancer genomics studies, including TCGA and AACR GENIE also equire explict patient consent to share de-identified clinical data.
+The cBioPortal only contains **de-identified clinical data**.  That means that we do not store any protected health information (PHI) for patients, such as birth dates or medical record numbers, but we do store de-identified data, such as overall survival, patient demographics and prior treatment.  Published cancer genomics studies, including TCGA and AACR GENIE also equire explict patient consent to share de-identified clinical data.
 {% endhint %}
+
+## TCGA Studies
+
+*Under Construction*
+
+# AACR GENIE
+
+The cBioPortal team maintain a separate cBioPortal instance just for [AACR GENIE data](https://www.aacr.org/professionals/research/aacr-project-genie/).  AACR GENIE is a multi-institutional data sharing initiative focused on precision cancer medicine.  To access AACR GENIE data, you must first register and agree to the AACR GENIE terms of use.  Complete details are available at:  https://genie.cbioportal.org/.
