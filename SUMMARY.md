@@ -7,8 +7,8 @@
 ## Basic Functionality
 
 * [Introduction](Introduction.md)
-* [Getting Started](GettingStarted.md)
 * [Datasets](Datasets.md)
+* [Getting Started](GettingStarted.md)
 * [Results View](ResultsView.md)
 * [Study View](StudyView.md)
 * [Patient View](PatientView.md)
