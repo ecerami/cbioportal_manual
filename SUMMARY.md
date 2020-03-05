@@ -1,8 +1,7 @@
 # Summary​
 
-## About
+## Contributing
 
-* [About this Manual](About.md)
 * [Contributing to this Manual](Contributing.md)
 
 ## Basic Functionality
