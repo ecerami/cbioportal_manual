@@ -22,7 +22,14 @@ The cBioPortal only contains **de-identified clinical data**.  That means that w
 
 ## TCGA Studies
 
-*Under Construction*
+For The Cancer Genome Atlas (TCGA) project, we currently maintain three different types of studies.
+
+ * **Published TCGA Studies**:  These studies matches the published data that accompanied a specific TCGA marker paper. 
+ * **Legacy TCGA Studies**:  These studies are based on the [Firehose Pipeline](https://gdac.broadinstitute.org/), previously maintained by the Broad Institute.
+ * **Pan-Cancer TCGA Studies**:  These studies are based on the TCGA Pan-Cancer work, where genomic data was processed through a uniform set of pipelines and clinical data was more fully harmonized.  
+
+ Where possible, we recommend using the latest Pan-Cancer TCGA Studies.
+
 
 ## AACR GENIE
 
