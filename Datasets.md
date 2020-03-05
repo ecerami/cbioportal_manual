@@ -12,6 +12,8 @@ For a complete list of studies within the cBioPortal page, go to:  https://www.c
 
 ## Cancer Types
 
-Where possible, each study within cBioPortal is associated with a specific cancer type, derived from the [OncoTree ontology](http://oncotree.mskcc.org/#/home).  The OncoTree ontology provides a tree-based structure for classifing cancers.  For example, Glioblastoma Multiforme is classified as a Diffuse Glioma, which is then categorized under CNS/Brain.  To find glioblastoma studies within cBioPortal, you can therefore select CNS/Brain studies and start browsing or simply enter "Glioblastoma" in the main search box.  Note that studies which span multiple cancer types are categorized as "Pan Cancer" studies.  We also maintain cell line studies, such as the Cancer Cell Line Encylopedia, which are categorized as "Cell Line" studies.
+Where possible, each study within cBioPortal is associated with a specific cancer type, derived from the [OncoTree ontology](http://oncotree.mskcc.org/#/home).  The OncoTree ontology provides a tree-based structure for classifing cancers.  For example, Glioblastoma  is classified as a Diffuse Glioma, which is then categorized under CNS/Brain.  To find glioblastoma studies within cBioPortal, you can therefore select CNS/Brain studies and start browsing or simply enter "Glioblastoma" in the main search box.  Note that studies which span multiple cancer types are categorized as "Pan Cancer" studies.  We also maintain cell line studies, such as the Cancer Cell Line Encylopedia, which are categorized as "Cell Line" studies.
+
+![OncoTree Example](img/oncotree.png)
 
 
