@@ -24,6 +24,6 @@ The cBioPortal only contains **de-identified clinical data**.  That means that w
 
 *Under Construction*
 
-# AACR GENIE
+## AACR GENIE
 
 The cBioPortal team maintain a separate cBioPortal instance just for [AACR GENIE data](https://www.aacr.org/professionals/research/aacr-project-genie/).  AACR GENIE is a multi-institutional data sharing initiative focused on precision cancer medicine.  To access AACR GENIE data, you must first register and agree to the AACR GENIE terms of use.  Complete details are available at:  https://genie.cbioportal.org/.
