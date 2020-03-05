@@ -16,4 +16,6 @@ Where possible, each study within cBioPortal is associated with a specific cance
 
 ![OncoTree Example](img/oncotree.png)
 
-
+{% hint style="info" %}
+The cBioPortal only contains de-identified clinical data.  That means that we do not store any protected health information (PHI) for patients, such as birth dates or medical record numbers, but we do store de-identified data, such as overall survival, patient demographics and prior treatment.  Published cancer genomics studies, including TCGA and AACR GENIE also equire explict patient consent to share de-identified clinical data.
+{% endhint %}
