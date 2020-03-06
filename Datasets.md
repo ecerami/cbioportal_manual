@@ -35,7 +35,9 @@ The cBioPortal does not currently store genomic data derived from the [NCI Genom
 {% endhint %}
 
 {% hint style="warning" %}
-If you compare data across published TCGA studies, Legacy TCGA Studies, Pan-Cancer TCGA Studies and GDC Re-processed TCGA Studies, you may notice some small differences in the data.  This is due to the variability in how genomic data was processed.  For example, in the published TCGA studies, mutation calls were usually derived by the sequencing center which performed the sequencing, and each of the three main sequencing centers in TCGA maintained their own independent NGS pipelines.  Furthermore, the Pan-Cancer Initiative and the GDC now maintain their own independent NGS Pipelines.  For a more detailed comparison, please see:  [Before and After: A Comparison of Legacy and Harmonized TCGA Data at the Genomic Data Commons](https://www.ncbi.nlm.nih.gov/pubmed/31344359) and [MC3:  Scalable Open Science Approach for Mutation Calling of Tumor Exomes Using Multiple Genomic Pipelines](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6075717/).
+If you compare data across published TCGA studies, Legacy TCGA Studies, Pan-Cancer TCGA Studies and GDC Re-processed TCGA Studies, you may notice some small differences in the data.  This is due to the variability in how genomic data was processed.  For example, in the published TCGA studies, mutation calls were usually derived by the sequencing center which performed the sequencing, and each of the three main sequencing centers in TCGA maintained their own independent NGS pipelines.  Furthermore, the Pan-Cancer Initiative and the GDC now maintain their own independent NGS Pipelines.
+
+For a more detailed comparison, please see:  [Before and After: A Comparison of Legacy and Harmonized TCGA Data at the Genomic Data Commons](https://www.ncbi.nlm.nih.gov/pubmed/31344359) and [MC3:  Scalable Open Science Approach for Mutation Calling of Tumor Exomes Using Multiple Genomic Pipelines](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6075717/).
 {% endhint %}
 
 ## AACR GENIE
