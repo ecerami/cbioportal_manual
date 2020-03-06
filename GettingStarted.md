@@ -36,5 +36,15 @@ Once you have selected your study, you have the option of selecting one of two o
 
 For now, click the "Query by Gene" button.
 
+You should now see:
 
+![Query By Gene](img/home_query_by_gene.png)
+
+This panel provides several options, which you may wish to explore.
+
+  1. **Select Genomic Profiles**:  Use these options to hone in on genomic data of interest.  For example, you can choose to analyze just mutation data or just copy number data.  Note that different options will appear here for each cancer study.
+
+  2. **Select Patient/Case Set**:  Use these options to hone in on the patients of interest.  For example, you can choose all patients with mutation data or all patients with mutation and copy number data.  You can even enter a list of specific patient or sample identifiers.
+
+  3. **Enter Genes**:  Use pull-down menu to select from pre-defined gene sets, or use the text box to enter one or more genes.  You can enter HUGO gene symbols, gene aliases or Entrez Gene IDs.  The text box will also automatically validate your input and provide suggestions if we can't find an exact match.
 
