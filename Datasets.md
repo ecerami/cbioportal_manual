@@ -24,12 +24,19 @@ The cBioPortal only contains **de-identified clinical data**.  That means that w
 
 For The Cancer Genome Atlas (TCGA) project, we currently maintain three different types of studies.
 
- * **Published TCGA Studies**:  These studies matches the published data that accompanied a specific TCGA marker paper. 
+ * **Published TCGA Studies**:  These studies match the published data that accompanied a specific TCGA marker paper.
  * **Legacy TCGA Studies**:  These studies are based on the [Firehose Pipeline](https://gdac.broadinstitute.org/), previously maintained by the Broad Institute.
- * **Pan-Cancer TCGA Studies**:  These studies are based on the TCGA Pan-Cancer work, where genomic data was processed through a uniform set of pipelines and clinical data was more fully harmonized.  
+ * **Pan-Cancer TCGA Studies**:  These studies are based on the [TCGA Pan Cancer initiative](https://www.cell.com/pb-assets/consortium/pancanceratlas/pancani3/index.html).  This was a multi-institutional initiative focused on analyzing ~11,000 tumors across 33 TCGA cancer types.  All genomic data within the Pan-Cancer initative were processed with a uniform set of pipelines and clinical data were more fully harmonized across cancer types.  Within cBioPortal, we provide one Pan-Cancer study per cancer type -- for example, we provide the Uveal [Melanoma Pan-Cancer study](https://www.cbioportal.org/study/summary?id=uvm_tcga_pan_can_atlas_2018), and the [Adrenocortical Carcinoma Pan-Cancer study](https://www.cbioportal.org/study/summary?id=acc_tcga_pan_can_atlas_2018).
 
-When possible, we recommend using the latest Pan-Cancer TCGA Studies.
+When possible, we recommend using the latest Pan-Cancer TCGA Studies, as these studies have been more uniformly processed for comparative analyses.
 
+{% hint style="info" %}
+The cBioPortal does not currently store genomic data derived from the [NCI Genomic Data Commons](https://gdc.cancer.gov/).  Note also, that the GDC maintains its own set of [standardized genomic pipelines](https://gdc.cancer.gov/about-data) which they use to re-process and re-analyze TCGA data.
+{% endhint %}
+
+{% hint style="warning" %}
+If you compare data across published TCGA studies, Legacy TCGA Studies, Pan-Cancer TCGA Studies and GDC Re-processed TCGA Studies, you may notice some small differences in the data.  This is due to the variability in how genomic data was processed.  For example, in the published TCGA studies, mutation calls were usually derived by the sequencing center which performed the sequencing, and each of the three main sequencing centers in TCGA maintained their own independent NGS pipelines.  Furthermore, the Pan-Cancer Initiative and the GDC now maintain their own independent NGS Pipelines.  For a more detailed comparison, please see:  [Before and After: A Comparison of Legacy and Harmonized TCGA Data at the Genomic Data Commons](https://www.cell.com/cell-systems/fulltext/S2405-4712(19)30201-7?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2405471219302017%3Fshowall%3Dtrue) and [MC3:  Scalable Open Science Approach for Mutation Calling of Tumor Exomes Using Multiple Genomic Pipelines](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6075717/).
+{% endhint %}
 
 ## AACR GENIE
 
