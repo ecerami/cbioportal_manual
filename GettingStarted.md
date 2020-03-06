@@ -22,5 +22,8 @@ In the first option, you can use the left navigation pane to **browse** by cance
 
 In the second option, you can use the search box to **search** by cancer type or study name:
 
-![Browse by Cancer Type](img/home_search.png)
+![Search by Cancer Type](img/home_search.png)
 
+{% hint style="info" %}
+There are lots of tricks you can use within the search box.  For example, you can quickly find all Pan-Cancer TCGA studies by entering:  "tcga pancancer".  Or, you can quickly find all TCGA Studies, but remove the Pan-Cancer Studies by entering:  "tcga -pancancer".
+{% endhint %}
