@@ -46,6 +46,6 @@ This panel provides several options, which you may wish to explore.
 
   2. **Select Patient/Case Set**:  Use these options to hone in on the patients of interest.  For example, you can choose all patients with mutation data or all patients with mutation and copy number data.  You can even enter a list of specific patient or sample identifiers.
 
-  3. **Enter Genes**:  Use pull-down menu to select from pre-defined gene sets, or use the text box to enter one or more genes.  You can enter HUGO gene symbols, gene aliases or Entrez Gene IDs.  The text box will also automatically validate your input and provide suggestions if we can't find an exact match.
+  3. **Enter Genes**:  Use the pull-down menu to select from pre-defined gene sets, or use the text box to enter one or more genes.  You can enter HUGO gene symbols, gene aliases or Entrez Gene IDs.  The text box will also automatically validate your input and provide suggestions if we can't find an exact match.
 
 When you are done, click the "Submit Query" button and continue on with the next section.
