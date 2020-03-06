@@ -1,4 +1,4 @@
-![cBioPortal Log](img/cbioportal.png)
+![](img/cbioportal.png)
 
 This is a community written manual describing the cBioPortal for Cancer Genomics.
 
