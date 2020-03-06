@@ -27,3 +27,14 @@ In the second option, you can use the search box to **search** by cancer type or
 {% hint style="info" %}
 There are lots of tricks you can use within the search box.  For example, you can quickly find all Pan-Cancer TCGA studies by entering:  "tcga pancancer".  Or, you can quickly find all TCGA Studies, but remove the Pan-Cancer Studies by entering:  "tcga -pancancer".
 {% endhint %}
+
+## Branching
+
+Once you have selected your study, you have the option of selecting one of two options:
+
+![Branching](img/home_branch.png)
+
+For now, click the "Query by Gene" button.
+
+
+
