@@ -1,3 +1,3 @@
 # Introduction
  
-Under Construction
+This page is under construction.
