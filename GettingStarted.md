@@ -48,3 +48,4 @@ This panel provides several options, which you may wish to explore.
 
   3. **Enter Genes**:  Use pull-down menu to select from pre-defined gene sets, or use the text box to enter one or more genes.  You can enter HUGO gene symbols, gene aliases or Entrez Gene IDs.  The text box will also automatically validate your input and provide suggestions if we can't find an exact match.
 
+When you are done, click the "Submit Query" button and continue on with the next section.
