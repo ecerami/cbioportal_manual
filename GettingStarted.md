@@ -2,8 +2,9 @@
  
 To get started with cBioPortal, first go to:  https://www.cbioportal.org/.
 
-From the home page, first note the top navigation bar:
+From the home page, note the top navigation bar:
 
+![OncoTree Example](img/oncotree.png)
 ![cBioPortal Navigation Bar](img/navbar.png)
 
 From here, you can drill-down to different sections of cBioPortal.  For beginners, the two most important tabs are "Tutorials" and "FAQs".
