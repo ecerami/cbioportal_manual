@@ -6,6 +6,16 @@ From the home page, note the top navigation bar:
 
 ![cBioPortal Navigation Bar](img/navbar.png)
 
-From here, you can drill-down to different sections of cBioPortal.  For beginners, the two most important tabs are "Tutorials" and "FAQs".
+From here, you can drill-down to different sections of cBioPortal.  For beginners, the two most important tabs are "Tutorials" and "FAQ".
 
 With that, you are ready to try your first query.  For this section, we will explore the [Cholangiocarcinoma study from MSKCC](https://www.cbioportal.org/study/summary?id=chol_msk_2018).  If you are interested, you can also access the paper on [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6642361/).
+
+From the home page, you have several options for getting started.
+
+## Option 1:  Browse
+
+In the first option, you can use the left navigation pane to **browse** by cancer type:
+
+![Browse by Cancer Type](img/home_browse.png)
+
+## Option 2:  Search
