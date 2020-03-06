@@ -19,3 +19,8 @@ In the first option, you can use the left navigation pane to **browse** by cance
 ![Browse by Cancer Type](img/home_browse.png)
 
 ## Option 2:  Search
+
+In the second option, you can use the search box to **search** by cancer type or study name:
+
+![Browse by Cancer Type](img/home_search.png)
+
