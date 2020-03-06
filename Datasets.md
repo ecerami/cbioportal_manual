@@ -43,3 +43,7 @@ For a more detailed comparison, please see:  [Before and After: A Comparison of 
 ## AACR GENIE
 
 The cBioPortal team maintain a separate cBioPortal instance just for [AACR GENIE data](https://www.aacr.org/professionals/research/aacr-project-genie/).  AACR GENIE is a multi-institutional data sharing initiative focused on precision cancer medicine.  To access AACR GENIE data, you must first register and agree to the AACR GENIE terms of use.  Complete details are available at:  https://genie.cbioportal.org/.
+
+## cBioPortal DataHub
+
+If you want to analyze any cBioPortal data locally with your own tools, e.g. with Python or R, we also maintain a [cBioPortal DataHub](https://github.com/cBioPortal/datahub) on GitHub.  From here, you can easily download the complete data set for any study that you see within the public cBioPortal.
